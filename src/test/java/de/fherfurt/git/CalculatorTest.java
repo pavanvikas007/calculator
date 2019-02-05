@@ -22,6 +22,7 @@ public class CalculatorTest {
 	}
     
     @Test
+    // Subtraction Method
 	public void minus() {
 		fail("Not yet implemented");
 	}
