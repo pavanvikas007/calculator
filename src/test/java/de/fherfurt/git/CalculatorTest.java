@@ -10,11 +10,13 @@ public class CalculatorTest {
     private Calculator calculator;
 
     @Before
+
     public void setUp() {
         calculator = new Calculator();
     }
 
     @Test
+    //Addition Method
 	public void plus() {
 		fail("Not yet implemented");
 	}
