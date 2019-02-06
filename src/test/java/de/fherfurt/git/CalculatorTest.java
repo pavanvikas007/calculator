@@ -36,6 +36,14 @@ public void exponential() {
                 fail("Not yet implemented");
         }
 
+//Suare root method
+//added as part of Feature2 release
+public void squartRoot(){
+	fail("Note yet implemented");
+}
+
+
+
 
     @Test
 	public void geteilt() {
