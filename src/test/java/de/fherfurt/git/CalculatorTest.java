@@ -30,7 +30,13 @@ public class CalculatorTest {
 	public void mal() {
 		fail("Not yet implemented");
 	}
-    
+//Exponential method 
+//added as part of Feature1 release
+public void exponential() {
+                fail("Not yet implemented");
+        }
+
+
     @Test
 	public void geteilt() {
 		fail("Not yet implemented");
