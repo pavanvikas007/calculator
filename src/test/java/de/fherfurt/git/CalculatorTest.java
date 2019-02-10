@@ -48,6 +48,10 @@ public void finelog(){
 fail("Not yet imeplemented");
 }
 
+public void findtan(){
+	fail("not yet implemented");
+}
+
 //Demo on HTTPS protocol
 //Demo on SSH protocol
 
