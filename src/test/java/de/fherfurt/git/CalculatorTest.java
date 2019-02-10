@@ -22,11 +22,13 @@ public class CalculatorTest {
 	}
     
     @Test
+    // Subtraction Method
 	public void minus() {
 		fail("Not yet implemented");
 	}
     
     @Test
+	//added by another developer
 	public void mal() {
 		fail("Not yet implemented");
 	}
