@@ -41,7 +41,7 @@ public void exponential() {
 //Suare root method
 //added as part of Feature2 release
 public void squartRoot(){
-	fail("Note yet implemented");
+	fail("Not yet implemented");
 }
 
 //Demo on HTTPS protocol
