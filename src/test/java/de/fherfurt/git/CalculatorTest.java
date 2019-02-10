@@ -48,6 +48,13 @@ public void finelog(){
 fail("Not yet imeplemented");
 }
 
+
+//Method added before stashing
+public void findSinValue(){
+fail("Note yet implemented");
+}
+
+
 //Demo on HTTPS protocol
 //Demo on SSH protocol
 
