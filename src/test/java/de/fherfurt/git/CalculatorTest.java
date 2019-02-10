@@ -48,6 +48,7 @@ public void finelog(){
 fail("Not yet imeplemented");
 }
 
+<<<<<<< HEAD
 
 //Method added before stashing
 public void findSinValue(){
@@ -55,6 +56,12 @@ fail("Note yet implemented");
 }
 
 
+=======
+public void findtan(){
+	fail("not yet implemented");
+}
+
+>>>>>>> feature1
 //Demo on HTTPS protocol
 //Demo on SSH protocol
 
