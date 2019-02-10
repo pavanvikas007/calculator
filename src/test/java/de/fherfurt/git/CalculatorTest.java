@@ -44,6 +44,10 @@ public void squartRoot(){
 	fail("Not yet implemented");
 }
 
+public void finelog(){
+fail("Not yet imeplemented");
+}
+
 //Demo on HTTPS protocol
 //Demo on SSH protocol
 
